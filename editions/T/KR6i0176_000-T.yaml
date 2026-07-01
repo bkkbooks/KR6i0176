@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0176/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說德護長者經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0545.xml
+    old_id: T14n0545
+hash: sha256:fb527314f51d88417a671724c0ef19b2805febcf09e07735995b880ce93178d4
